@@ -1,0 +1,132 @@
+body {
+    background-color: #f6f8f9;
+}
+
+.logo {
+    margin: 17px 91px 14px 20px;
+    vertical-align: middle;
+}
+
+.nav-ul {
+    display: inline-block;
+    margin: 8px 20px 12px 0;
+    vertical-align: middle;
+    font-family: 'Helvetica';
+}
+
+.nav-li {
+    display: inline-block;
+    color: #343638;
+    font-size: 11px;    
+    margin-left: 21px;
+}
+
+.active {s
+    margin-right: 27px;
+}
+
+.account-image {
+    vertical-align: middle;
+}
+
+
+.wrapper {
+    width: 1161px;
+    margin: 24px auto 235px;
+}
+
+
+.section-head{
+    margin-bottom: 31px;
+    font-size: 24px;
+    font-family: 'Helvetica';
+}
+
+
+.section-one-image {
+    position: relative;
+    display: inline-block;
+}
+
+.image-paragraph {
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Helvetica';
+}
+
+.trending-box {
+    width: 361px;
+    height: 351px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.middle {
+    margin-right: 39px;
+    margin-left: 39px;
+}
+
+.trending-text {
+    font-size: 13px;
+    color: #a6adb4;
+    width: 224px;
+    margin: 76px 97px 67px 40px;
+    font-family: 'Acumin Pro';
+}
+
+
+.happening-now-section {
+    margin-top: 57px;
+}
+
+.left-image-column {
+    vertical-align: top;
+    width: 800px;
+    display: inline-block;
+}
+
+.left-image {
+    position: relative;
+    display: inline-block;
+}
+
+.left-image-paragraph {
+    position: absolute;
+    top: 394px;
+    right: 22px;
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Helvetica';
+}
+
+.right-image-column {
+    display: inline-block;
+    width: 361px;
+    vertical-align: top;
+}
+
+.right-image {
+    position: relative;
+    display: inline-block;
+}
+
+.right-image-paragraph {
+    position: absolute;
+    top: 18px;
+    left: 40px;
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Helvetica';
+}
+
+.left-top-image {
+    margin-right: 39px;
+    margin-bottom: 39px;
+}
+
+.right-middle-image {
+    margin: 101px 0;
+}

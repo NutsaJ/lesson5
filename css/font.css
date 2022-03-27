@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica-Bold.eot');
+    src: url('../fonts/Helvetica-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Helvetica-Bold.woff2') format('woff2'),
+        url('../fonts/Helvetica-Bold.woff') format('woff'),
+        url('../fonts/Helvetica-Bold.svg#Helvetica-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('A../fonts/cuminPro-Thin.eot');
+    src: url('../fonts/AcuminPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AcuminPro-Thin.woff2') format('woff2'),
+        url('../fonts/AcuminPro-Thin.woff') format('woff'),
+        url('../fonts/AcuminPro-Thin.svg#AcuminPro-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
